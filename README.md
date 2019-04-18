@@ -1,8 +1,8 @@
-This is a to do list. 
-Double Click to Delete Task.
+###React TODO LIST
+(Double-Click to Delete Task)
 
+*NPM INSTALL
+*NPM START
 
-### `npm Install`
-
-### `npm Start`
+![alt text](https://i.imgur.com/OrOEWat.jpg)
 
